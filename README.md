@@ -1,8 +1,7 @@
 # Python Programming Exercises
 
 ## Overview
-This repository contains Python exercises completed as part of CE156 coursework.
-It demonstrates core Python concepts including conditional logic, loops, functions, and file handling.
+This project is part of academic coursework and demonstrates foundational Python programming skills.
 
 ## Files
 - Exercise 1.py – Core Python basics
