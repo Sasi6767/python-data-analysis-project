@@ -1,4 +1,4 @@
-# Python Programming Exercises (CE156)
+# Python Programming Exercises
 
 ## Overview
 This repository contains Python exercises completed as part of CE156 coursework.
